@@ -1,0 +1,4 @@
+2025-06-22 20:50:21,655 - INFO - Logger initialized - Log file: logs/wifi_test_log_20250622_205021.log
+2025-06-22 20:50:41,528 - INFO - Upload speed: 99229.85 Mbps
+2025-06-22 20:50:51,544 - INFO - Download speed: 101867.12 Mbps
+2025-06-22 20:51:15,605 - INFO - Latency test - baseline: 0.14ms, loaded: 0.04ms, increase: -0.09ms
