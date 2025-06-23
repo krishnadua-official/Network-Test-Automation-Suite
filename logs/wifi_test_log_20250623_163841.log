@@ -1,0 +1,4 @@
+2025-06-23 16:38:41,074 - INFO - Logger initialized - Log file: logs/wifi_test_log_20250623_163841.log
+2025-06-23 16:39:13,010 - INFO - Continuous ping - 0.0% loss
+2025-06-23 16:39:13,047 - INFO - Signal strength: -51 dBm
+2025-06-23 16:39:28,510 - INFO - Connection stability - 100.0% success
