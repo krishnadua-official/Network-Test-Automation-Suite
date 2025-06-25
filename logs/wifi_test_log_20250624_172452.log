@@ -1,0 +1,8 @@
+2025-06-24 17:24:52,817 - INFO - Logger initialized - Log file: logs/wifi_test_log_20250624_172452.log
+2025-06-24 17:24:52,822 - INFO - Starting Wi-Fi Router Test Suite
+2025-06-24 17:24:52,822 - INFO - Router IP: 10.0.0.01
+2025-06-24 17:24:52,822 - INFO - SSID: Qucikfish
+2025-06-24 17:24:55,017 - INFO - Running security tests only
+2025-06-24 17:25:04,216 - INFO - Port scan - 2 open ports found
+2025-06-24 17:25:04,240 - INFO - UPnP test - Detected
+2025-06-24 17:25:04,277 - INFO - MAC filtering test - informational only

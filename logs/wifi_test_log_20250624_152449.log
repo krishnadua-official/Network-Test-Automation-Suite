@@ -1,0 +1,8 @@
+2025-06-24 15:24:49,124 - INFO - Logger initialized - Log file: logs/wifi_test_log_20250624_152449.log
+2025-06-24 15:24:49,124 - INFO - Starting Wi-Fi Router Test Suite
+2025-06-24 15:24:49,124 - INFO - Router IP: 10.0.0.1
+2025-06-24 15:24:49,124 - INFO - SSID: Quickfish
+2025-06-24 15:24:59,940 - INFO - Running multi-device tests only
+2025-06-24 15:25:16,015 - INFO - Multi-client test - Total bandwidth: 203238.38 Mbps
+2025-06-24 15:25:32,233 - INFO - QoS test - Rating: EFFECTIVE
+2025-06-24 15:25:37,280 - INFO - Distance test - Speed: 97650.08 Mbps at -53 dBm
